@@ -38,7 +38,7 @@ const Navbar = () => {
         <div className="flex justify-start">
           <Link to="/" onClick={handleLogoClick} className="focus:outline-none flex items-center">
             <img
-              src="/images/logo.png"
+              src="/images/logo_icon.png"
               alt="Logo"
               className="h-8 w-auto hover:scale-105 active:scale-95 transition-transform duration-200"
             />
